@@ -67,7 +67,7 @@ mysql> describe posts;
 5 rows in set (0.00 sec)
 ```
 
-# License
+## License
 ```xml
 Designed and developed by 2020 skydoves (Jaewoong Eum)
 
